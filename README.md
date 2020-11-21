@@ -1,6 +1,7 @@
 # React Native dashboard for Prometheus Alermanager silences
 
-![silences](./silences.jpg)
+
+![Preview](https://github.com/martohub/react_silences/blob/master/silences.jpg?raw=true)
 
 ### Installation
 git clone https://github.com/martohub/react_silences.git
