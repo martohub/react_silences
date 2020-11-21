@@ -1,2 +1,2 @@
-# React Dashboard for Prometheus Silences
+# React Dashboard for Prometheus Alermanager silences
 ## Installation
