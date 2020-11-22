@@ -11,7 +11,7 @@ import TableContainer from './TableContainer';
 import 'bootstrap/dist/css/bootstrap.css';
 import { SelectColumnFilter } from './filters';
 
-const ALERTMANAGER_URL = 'YOUR_ALERTMANAGER_HERE'
+const ALERTMANAGER_URL = 'http://localhost:9093'
 const DEFAULT_QUERY = '/api/v1/silences';
 
 const App = () => {
