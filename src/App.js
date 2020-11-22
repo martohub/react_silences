@@ -8,7 +8,7 @@ import {
   CardTitle,
 } from 'reactstrap';
 import TableContainer from './TableContainer';
-import 'bootstrap/dist/css/bootstrap.css';
+import './silences_grafana.css';
 import { SelectColumnFilter } from './filters';
 
 const ALERTMANAGER_URL = 'http://localhost:9093'
